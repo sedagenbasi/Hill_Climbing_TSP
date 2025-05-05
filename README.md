@@ -42,16 +42,6 @@ Her iterasyonda iki şehir yer değiştirerek yeni bir komşu rota oluşturur (s
 - Eğer daha iyi bir komşu yoksa, algoritma durur (yerel minimuma ulaşılmış olabilir).
 
 ---
-
-## 📊 Görsel Çıktılar
-
-### 🔹 1. Tek çalıştırmadaki rota çıktısı:
-![İlk versiyonun çıktısı](hill_sehir_cikti.png)
-
-### 🔹 2. Algoritma 10 kez çalıştırıldığında elde edilen sonuçlar:
-![10 defa çalıştırma versiyonun çıktısı](random3_cikti.png)
-
----
 ## ❄️ Simulated Annealing Yaklaşımı
 Gezgin Satıcı Problemini ilk önce Hill Climbing algoritması ile çalıştırdım. Fakat yerel minimumlarda takılıp kaldığını fark ettim.
 Bu noktada devreye Simulated Annealing ile geliştirme yaptım. Hill Climbing yalnızca daha iyi çözümleri kabul ederken, Simulated Annealing bazen daha kötü çözümleri de kabul ederiyor — ama neden?
