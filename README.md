@@ -78,7 +78,7 @@ En sonunda algoritma “soğur” ve artık daha kötü çözümleri kabul etmez
 
 ## 📉 Rota Mesafesi Gelişimi
 Aşağıdaki grafik, algoritmanın zamanla rota mesafesini nasıl iyileştirdiğini gösteriyor:
-![toplam rota mesafesinin zamanla (iterasyon boyunca](random3_cikti.png)
+![toplam rota mesafesinin zamanla (iterasyon boyunca](Figure_1.png)
 
 Bu grafikte, rota mesafesinin nasıl azaldığı, bazen de yükseldiği (kötü adım) görülür. Bu davranış algoritmanın küresel minimuma ulaşma çabasıdır.
 
